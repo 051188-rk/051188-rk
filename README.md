@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/cute-kawaii-VUC9YdLSnKuJy"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
