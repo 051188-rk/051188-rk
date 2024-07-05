@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/TheBoysTV-creepy-butcher-billy-l0cydYWK8uWpXEaplL"  />
+<img align="right" height="150" src="https://giphy.com/gifs/cute-kawaii-VUC9YdLSnKuJy"  />
 
 ###
 
