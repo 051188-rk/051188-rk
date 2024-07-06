@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @051188-rk
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="051188-rk" height="30" width="40" /></a>
