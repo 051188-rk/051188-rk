@@ -3,13 +3,8 @@
 <a href="https://codeforces.com/profile/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="051188-rk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="051188-rk" height="30" width="40" /></a>
 </p>
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+<h4 align="left">Connect with me:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
