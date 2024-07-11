@@ -5,8 +5,7 @@
 <a href="https://www.hackerrank.com/051188_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="051188_rk" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="051188-rk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="051188-rk" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<051188rk/profile>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<051188rk/profile>" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://www.geeksforgeeks.org/user/051188rk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.geeksforgeeks.org/user/051188rk/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/051188rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<051188rk/profile>" height="30" width="40" /></a>
 </p>
 <h4 align="left">Skills:</h4>
 <div align="left">
