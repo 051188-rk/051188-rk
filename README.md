@@ -1,6 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" height="150" src="[](https://github.com/user-attachments/assets/46df2c5f-933a-4dac-8a7d-14fdab02e7bd)"/>
+<img align="right" height="150" src="https://github.com/user-attachments/assets/46df2c5f-933a-4dac-8a7d-14fdab02e7bd"/>
 <a href="https://www.codechef.com/users/o51188rk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="o51188rk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/051188_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="051188_rk" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/051188-rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="051188-rk" height="30" width="40" /></a>
